@@ -1,0 +1,17 @@
+{
+  "name": "video_app-and-backend",
+  "version": "1.0.0",
+  "description": " video player Backend",
+  "keywords": [
+    "javascript",
+    "backend",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "Raju",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
